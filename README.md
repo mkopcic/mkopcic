@@ -20,10 +20,13 @@ Monitoring  Grafana · Prometheus · log aggregation
 Databases   MySQL · MariaDB · PostgreSQL · SQLite
 AI          LLM integration · MCP servers · Laravel Boost · Laravel AI SDK
 Network     MikroTik · WireGuard · iptables · VLAN
+
 Selected open-source
 
 react-intertia-laravel — Laravel 13 + React 19 + Inertia.js SPA running marijankopcic.from.hr. Fortify 2FA, Wayfinder type-safe routes, shadcn/ui.
+
 md-solutions.hr-racuni-app — Croatian e-Račun B2B / FINA integration. UBL 2.1 (CIUS-HR-2025), XMLDSig, WS-Security, HTTPS client-cert auth, 9 Pest feature tests.
+
 laravel-postgresql-demo — Laravel 12 + PostgreSQL + Tabler admin starter. Spatie suite, Laravel Boost MCP server, AI SDK docs.
 rp-mellon-dev.com — Raspberry Pi 4 (2 GB) homelab. Docker Compose orchestrating nginx, Laravel, MariaDB, Redis, Portainer. Cloudflare Tunnel for HTTPS without port forwarding.
 
